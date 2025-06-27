@@ -10,8 +10,8 @@ I'm **Rishika Verma**, a passionate and versatile Computer Science student with 
 
 - 🚀 Developing intelligent and scalable web applications  
 - 🤖 Experimenting with AI/ML to build recommendation engines and chatbots  
-- 🌍 Advocating for tech solutions that empower communities (especially women & rural entrepreneurs!)  
-- 💡 Learning and building with new tools every day — from Solidity to Firebase
+- 🌍 Advocating for tech solutions that empower communities 
+
 
 ---
 
