@@ -1,6 +1,6 @@
 # Heyy, Rishika this side!
 
-
+ 
 
 I'm **Rishika Verma**, a passionate and versatile Computer Science student with a flair for solving real-world problems using innovative tech. Whether it’s building smart systems or exploring the endless applications of AI, I love turning bold ideas into powerful digital solutions. 
 
