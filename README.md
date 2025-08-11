@@ -2,7 +2,7 @@
 
 
 
-I'm **Rishika Verma**, a passionate and versatile Computer Science student with a flair for solving real-world problems using innovative tech. Whether it’s building smart systems or exploring the endless applications of AI, I love turning bold ideas into powerful digital solutions.
+I'm **Rishika Verma**, a passionate and versatile Computer Science student with a flair for solving real-world problems using innovative tech. Whether it’s building smart systems or exploring the endless applications of AI, I love turning bold ideas into powerful digital solutions. 
 
 💻 I’ve been deeply engaged in tech through various projects — from a **Inventory Management System** to **AI-powered landmine detection**. My curiosity drives me to explore new technologies and frameworks that can make systems smarter, safer, and more impactful.
 
